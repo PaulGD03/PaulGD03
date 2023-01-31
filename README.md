@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulgd03&label=Profile%20views&color=0e75b6&style=flat" alt="paulgd03" /> </p>
 
-<p align="left"> <a href="https://twitter.com/paul_gd03" target="blank"><img src="https://img.shields.io/twitter/follow/paulgd03?logo=twitter&style=for-the-badge" alt="paul_gd03" /></a> </p>
+<p align="left"> <a href="https://twitter.com/paul_gd03" target="blank"><img src="https://img.shields.io/twitter/follow/paul_gd03?logo=twitter&style=for-the-badge" alt="paul_gd03" /></a> </p>
 
 - 🔭 I’m currently working on the [Prometheus mSLA Project](https://github.com/TheContrappostoShop)
 
