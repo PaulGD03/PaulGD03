@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Embedded Technology and PCBs in general**
 
-- 📫 How to reach me **<Coming Soon>**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/paul_gd03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paul_gd03" height="30" width="40" /></a>
