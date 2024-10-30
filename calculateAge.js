@@ -18,7 +18,7 @@ function getAge(birthdate) {
 // Generate the new README content
 const readmeContent = `# # 👋 Hi, I'm Paul!
 
-I am currently [AGE_PLACEHOLDER] years old.
+I am currently ${getAge(birthdate)} years old.
 
 I am a Mechatronics Student (B.Eng.) and the lead for mechatronics at TheContrappostoShop,<br>and part of the leadership of the Open Resin Alliance.
 
