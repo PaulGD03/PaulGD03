@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paul!
 
-I am currently [AGE_PLACEHOLDER] years old.
+I am currently 21 years old.
 
 I am a Mechatronics Student (B.Eng.) and the lead for mechatronics at TheContrappostoShop,<br>and part of the leadership of the Open Resin Alliance.
 
