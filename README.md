@@ -21,10 +21,6 @@ I am a huge open-source advocate and have been involved with 3D printing since 2
 - **Discord**: [@paulgd](https://discord.com/)
 - **Email**: [paul@openresin.org](mailto:paul@openresin.org)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulGD03&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PaulGD03&theme=dark&hide_border=true)
-
 ## ☕ Support Me
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/paul_gd)
 
