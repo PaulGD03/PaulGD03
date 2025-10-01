@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Paul!
 
-I am currently 21 years old.
-
 I am a Mechatronics Student (B.Eng.) and the lead for mechatronics at TheContrappostoShop,<br>and part of the leadership of the Open Resin Alliance.
 
 I am a huge open-source advocate and have been involved with 3D printing since 2018.
